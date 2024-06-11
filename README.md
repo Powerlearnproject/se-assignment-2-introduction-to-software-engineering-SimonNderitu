@@ -62,7 +62,7 @@ What are version control systems, and why are they important in software develop
 These are software tools used for tracking changes to source code and coordinating quality. They include:
 Git. Features: Distributed version control, Branching and merging capabilities, support for multiple workflows such as Git Flows and Popular hosting services like GitHub, GitLab, and Bitbucket
 Mercurial. Features: Distributed version control, Simplicity and ease of use, Robust branching and merging, and extensible with plugins
-Perforce Helix Core. Features: Centralized version control, fine-grained access controls, Strong support for large binary files, Advanced merging and branching capabilities and high performance for large codebases
+Perforce Helix Core. Features: Centralized version control, fine-grained access controls, Strong support for large binary files, Advanced merging and branching capabilities and high performance for large codebases.
 
 Software Project Management:
 
